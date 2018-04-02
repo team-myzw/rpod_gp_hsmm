@@ -1,0 +1,11 @@
+string name
+time rosbag_time
+time start_time
+time end_time
+int64 count_number
+string[] read_topics
+string folda_path
+int64 duration_secs
+---
+bool success
+int64[] recog_class

@@ -1,1 +1,1 @@
-# GP-HSMM
+# RPOD-GP-HSMM
